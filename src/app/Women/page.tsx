@@ -37,21 +37,28 @@ const page = () => {
           </div>
 
           <div className='w-[440px] h-[256px] flex flex-col gap-4 mt-6'>
-          <div><p className='font-[Helvetica Neue] text-[21px] leading-[24px] font-medium mt-5'>What's your contact information?</p></div>
+          <div><p className='font-[Helvetica Neue] text-[21px] leading-[24px] font-medium mt-5'>What&apos;s your contact information?</p></div>
           <div><input type="text" placeholder="Email" className="w-[440px] h-[56px] placeholder-black rounded-lg leading-[24px] font-[Helvetica Neue] text-[16px] font-normal pl-4 border-2 border-gray-300" /><p className='font-[Helvetica Neue] text-[11px] leading-[24px] pl-4 text-[rgba(117,117,117,1)]'>A confirmation email will be sent after checkout.</p></div>
           <div><input type="text" placeholder="Phone Number" className="w-[440px] h-[56px] placeholder-black rounded-lg leading-[24px] font-[Helvetica Neue] text-[16px] font-normal pl-4 border-2 border-gray-300" /><p className='font-[Helvetica Neue] text-[11px] leading-[24px] pl-4 text-[rgba(117,117,117,1)]'>A carrier might contact you to confirm delivery.</p></div>
           </div>
 
 
           <div className='w-[440px] h-[256px] flex flex-col gap-4 mt-6'>
-          <div><p className='font-[Helvetica Neue] text-[21px] leading-[24px] font-medium mt-5'>What's your PAN?</p></div>
+          <div><p className='font-[Helvetica Neue] text-[21px] leading-[24px] font-medium mt-5'>What&apos;s your PAN?</p></div>
           <div><input type="text" placeholder="PAN" className="w-[440px] h-[56px] placeholder-black rounded-lg leading-[24px] font-[Helvetica Neue] text-[16px] font-normal pl-4 border-2 border-gray-300" /><p className='w-[376.3px] h-[48px] font-[Helvetica Neue] text-[12px] leading-[24px] pl-4 text-[rgba(117,117,117,1)]'>Enter your PAN to enable payment with UPI, Net Banking or local card methods</p></div>
           <label className="flex items-center"><input type="checkbox" className='w-[18px] h-[18px] rounded-sm border border-gray-200 p-4'/><span className="ml-3 font-[Helvetica Neue] font-normal text-[12px] leading-[24px] text-[rgba(117,117,117,1)]">Save this address to my profile</span></label>
           </div>
 
           <label className="flex items-center"><input type="checkbox" className='w-[40px] h-[40px] rounded-sm border border-gray-200 p-4'/><span className="ml-3 font-[Helvetica Neue] font-normal text-[12px] leading-[14px] text-[rgba(117,117,117,1)]">I have read and consent to eShopWorld processing my information in accordance with the <span className="underline">Privacy Statement</span> and <span className="underline">Cookie Policy.</span> eShopWorld is a trusted Nike partner.</span></label>
 
-          <div className='py-20'><Button variant="ghost" className='w-[440px] h-[60px] bg-[rgba(245,245,245,1)] rounded-full'>Continue</Button></div>
+          <div className='py-20'><Button
+  variant="ghost"
+  className="w-[440px] h-[60px] bg-[rgba(245,245,245,1)] rounded-full text-[rgba(117,117,117,1)] font-semibold 
+  hover:bg-[rgba(226,226,226,1)] hover:text-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out"
+>
+  Continue
+</Button>
+</div>
           
           <div className="w-[440px] h-[316px] flex flex-col gap-6">
                 <h6 className="font-[Helvetica Neue] text-[20px] leading-[24px] font-medium text-[rgba(17,17,17,1)]">Delivery</h6>

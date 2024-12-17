@@ -64,10 +64,10 @@ const Hero = () => {
     <div className='flex gap-3'>
         <p className='pt-3 pr-2 leading-[24px] text-[15px] font-[Helvetica Neue] font-semibold'>Shop</p>
         <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-        <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
+        <Image src="/arrow-right.svg" alt="Left Arrow" width={6.97} height={13.93}/>
         </button>
         <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-        <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4} />
+        <Image src="/arrow-left.svg" alt="Right Arrow" width={6.97} height={13.93} />
         </button>
     </div>
 </div>
@@ -156,11 +156,11 @@ const Hero = () => {
     <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Men&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
+    <Image src="/arrow-right.svg" alt="Left Arrow" width={6.97} height={13.93}/>
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4}/>
+    <Image src="/arrow-left.svg" alt="Right Arrow" width={6.97} height={13.93}/>
     </button>
     </div>
     </div>
@@ -172,11 +172,11 @@ const Hero = () => {
     <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Women&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
+    <Image src="/arrow-right.svg" alt="Left Arrow" width={6.97} height={13.93}/>
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4}/>
+    <Image src="/arrow-left.svg" alt="Right Arrow" width={6.97} height={13.93}/>
     </button>
     </div>
             
