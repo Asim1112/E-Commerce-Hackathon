@@ -69,7 +69,7 @@ const Header = () => {
       className="w-[180px] h-[40px] rounded-[100px] bg-gray-100 pl-12"
         />
     
-    <img 
+    <Image 
     src="/search-mirror-icon.svg"
     alt="search bar icon"
     className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5"
@@ -79,14 +79,14 @@ const Header = () => {
     
     {/* Heart and box logo */}
   <div className="flex gap-4">
-    <img 
+    <Image 
     src="/icon-heart.svg"
     alt="heart icon"
     className=""
     />
 
   <Link href="/Cart">
-  <img 
+  <Image 
     src="/icon-box.svg"
     alt="heart box"
     className=""

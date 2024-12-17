@@ -27,12 +27,12 @@ const page = () => {
             
             <p className='py-8 font-[Helvetica Neue] text-[15px] text-[rgba(17,17,17,1)] leading-[28px] font-medium'>We want to make buying your favourite Nike shoes and gear online fast and easy, and we accept the following payment options:</p>
 
-            <div className="pl-10"><p className="pb-5 font-[Helvetica Neue] text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-medium">Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</p><p className="pb-5 font-[Helvetica Neue] text-[15px] text-[rgba(17,17,17,1)] leading-[28px] font-medium'">If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.</p><p className="pb-5 font-[Helvetica Neue] text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-medium'">Apple Pay</p></div>
+            <div className="pl-10"><p className="pb-5 font-[Helvetica Neue] text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-medium">Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</p><p className="pb-5 font-[Helvetica Neue] text-[15px] text-[rgba(17,17,17,1)] leading-[28px] font-medium'">If you enter your PAN information at checkout, you&apos;ll be able to pay for your order with PayTM or a local credit or debit card.</p><p className="pb-5 font-[Helvetica Neue] text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-medium'">Apple Pay</p></div>
 
             
             <p className=" pb-5 font-[Helvetica Neue] text-[16px] text-[rgba(17,17,17,1)] leading-[28px]">
               <span className="font-semibold underline">Nike Memebers</span>
-              <span className="font-normal"> can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member, </span>
+              <span className="font-normal"> can store multiple debit or credit cards in their profile for faster checkout. If you&apos;re not already a Member, </span>
               <span className="font-semibold underline">join us today.</span>
             </p>
             
@@ -54,7 +54,7 @@ const page = () => {
 
             <div>
               <p className="font-[Helvetica Neue] font-semibold text-[15px] text-[rgba(17,17,17,1)] leading-[28px]">Can I pay for my order with multiple methods?</p>
-              <p className="font-[Helvetica Neue] font-normal text-[15px] text-[rgba(17,17,17,1)] leading-[28px] pb-5">No, payment for Nike orders can't be split between multiple payment methods.</p>
+              <p className="font-[Helvetica Neue] font-normal text-[15px] text-[rgba(17,17,17,1)] leading-[28px] pb-5">No, payment for Nike orders can&apos;t be split between multiple payment methods.</p>
             </div>
 
             <div>
@@ -63,8 +63,8 @@ const page = () => {
             </div>
 
             <div>
-              <p  className="font-[Helvetica Neue] font-semibold text-[15px] text-[rgba(17,17,17,1)] leading-[28px]">Why don't I see Apple Pay as an option?</p>
-              <p className="font-[Helvetica Neue] font-normal text-[16px] text-[rgba(17,17,17,1)] leading-[28px] pb-5">To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.</p>
+              <p  className="font-[Helvetica Neue] font-semibold text-[15px] text-[rgba(17,17,17,1)] leading-[28px]">Why don&apos;t I see Apple Pay as an option?</p>
+              <p className="font-[Helvetica Neue] font-normal text-[16px] text-[rgba(17,17,17,1)] leading-[28px] pb-5">To see Apple Pay as an option in the Nike App or on Nike.com, you&apos;ll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you&apos;ll need to use Safari to use Apple Pay on Nike.com.</p>
             </div>
 
               <p className="text-[15px] text-[rgba(17,17,17,1)] font-[Helvetica Neue] leading-[28px] font-normal">Was this answer helpful?</p>
@@ -86,7 +86,7 @@ const page = () => {
               <p className="font-[Helvetica Neue] text-[16px] leading-[24px] font-semibold text-[rgba(117,117,117,1)] pb-5">RELATED</p>
 
               <div className="space-y-5 pl-10">
-                <p className="text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-[Helvetica Neue] font-semibold underline">WHAT ARE NIKE'S DELIVERY OPTIONS?</p>
+                <p className="text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-[Helvetica Neue] font-semibold underline">WHAT ARE NIKE&apos;S DELIVERY OPTIONS?</p>
                 <p className="text-[16px] text-[rgba(17,17,17,1)] leading-[28px] font-[Helvetica Neue] font-semibold underline">HOW DO I GET FREE DELIVERY ON NIKE ORDERS?</p>
               </div>
 
@@ -144,7 +144,7 @@ const page = () => {
                     />
                                                       
                     <div className="text-center">
-                      <p  className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">We'll reply within</p>
+                      <p  className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">We&apos;ll reply within</p>
                       <p  className="font-[Helvetica Neue] text-[15px] leading-[28px]">five business days</p>
                     </div>
                     

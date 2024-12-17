@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from "next/image";
-import { Copyright } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -60,7 +59,8 @@ const Footer = () => {
       India
     </p>
     <p className="leading-[12px] text-[11px] text-[#7E7E7E] font-normal font-[Helvetica Neue] pl-4">
-      © 2023 Nike, Inc. All Rights Reserved
+    &copy; 2023 Nike, Inc. All Rights Reserved
+
     </p>
   </div>
 
