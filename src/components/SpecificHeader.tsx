@@ -6,7 +6,7 @@ const SpecificHeader = () => {
   return (
     <div className='flex justify-center'>
         
-        <div className='w-[1411px] h-[72.8px] flex justify-between items-center bg-orange-300'>
+        <div className='w-[1411px] h-[72.8px] flex justify-between items-center bg-[rgba(255,255,255,1)]'>
         
         <div className="pl-24">
             <Link href="/">

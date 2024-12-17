@@ -4,7 +4,7 @@ import Image from "next/image";
 const SpecificFooter = () => {
   return (
 <div className="flex justify-center">
-<div className="w-[1411px] h-[51px] flex justify-between bg-cyan-800 px-4">
+<div className="w-[1411px] h-[51px] flex justify-between bg-black px-4">
 
 
 <div className='flex items-center'>
