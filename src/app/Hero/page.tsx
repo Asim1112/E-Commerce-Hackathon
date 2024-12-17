@@ -64,10 +64,10 @@ const Hero = () => {
     <div className='flex gap-3'>
         <p className='pt-3 pr-2 leading-[24px] text-[15px] font-[Helvetica Neue] font-semibold'>Shop</p>
         <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-        <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+        <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
         </button>
         <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-        <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+        <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4} />
         </button>
     </div>
 </div>
@@ -79,7 +79,7 @@ const Hero = () => {
   
   {/* Shoe Card 1 */}
 <div>
-  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" alt="Nike Air Max Pulse" width={441.36} height={510.36}/>
       <div>
               <div className='flex justify-between'>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Air Max Pulse</p>
@@ -93,7 +93,7 @@ const Hero = () => {
   
   {/* Shoe Card 2 */}
 <div>
-  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" alt="Nike Air Max Pulse" width={441.36} height={510.36} />
 
   <div>
               <div className='flex justify-between'>
@@ -107,7 +107,7 @@ const Hero = () => {
 
   {/* Shoe Card 3 */}
 <div>
-  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" alt="Nike Air Max Pulse" width={441.36} height={510.36} />
 
   <div>
               <div className='flex justify-between'>
@@ -127,7 +127,7 @@ const Hero = () => {
         <div className='flex justify-center mt-10'>
     <div className="top-[1807.36px] mt-20">
     <div className='font-semibold font-[Helvetica Neue] h-[48px] text-[23px] leading-[28px]'>Featured</div>
-    <Image src="/running-man.svg" width={1344} height={977} alt="" />
+    <Image src="/running-man.svg" alt="running man image" width={1344} height={977} />
     </div>
         </div>
 
@@ -156,11 +156,11 @@ const Hero = () => {
     <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Men&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+    <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+    <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4}/>
     </button>
     </div>
     </div>
@@ -172,11 +172,11 @@ const Hero = () => {
     <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Women&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+    <Image src="/arrow-right.svg" alt="Left Arrow" width={4} height={4}/>
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+    <Image src="/arrow-left.svg" alt="Right Arrow" width={4} height={4}/>
     </button>
     </div>
             
@@ -240,7 +240,7 @@ const Hero = () => {
       <div className='flex justify-center mt-10'>
     <div className="top-[1807.36px] mt-20">
     <div className='font-semibold font-[Helvetica Neue] h-[48px] text-[23px] leading-[28px]'>Don&apos;t Miss</div>
-    <Image src="/Don't-Miss-Image.png" width={1344} height={977} alt="" />
+    <Image src="/Don't-Miss-Image.png" width={1344} height={977} alt="dont miss image" />
     </div>
         </div>
 

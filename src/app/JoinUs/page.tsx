@@ -14,7 +14,7 @@ const page = () => {
             <div className="flex flex-col gap-7 items-center w-[324px] h-[182px]">
             <Image
              src="nike-logo.svg" 
-             alt="" 
+             alt="nike logo image" 
              width={45.50} 
              height={16.54}/>
       

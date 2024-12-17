@@ -72,6 +72,8 @@ const Header = () => {
     <Image 
     src="/search-mirror-icon.svg"
     alt="search bar icon"
+    width={5}
+    height={5}
     className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5"
     />
   </div>
@@ -82,6 +84,8 @@ const Header = () => {
     <Image 
     src="/icon-heart.svg"
     alt="heart icon"
+    width={19.5}
+    height={16.76}
     className=""
     />
 
@@ -89,6 +93,8 @@ const Header = () => {
   <Image 
     src="/icon-box.svg"
     alt="heart box"
+    width={16.5}
+    height={16.5}
     className=""
     />
   </Link>
