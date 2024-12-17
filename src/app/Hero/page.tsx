@@ -240,7 +240,7 @@ const Hero = () => {
       <div className='flex justify-center mt-10'>
     <div className="top-[1807.36px] mt-20">
     <div className='font-semibold font-[Helvetica Neue] h-[48px] text-[23px] leading-[28px]'>Don&apos;t Miss</div>
-    <Image src="/Don't-Miss-Image.svg" width={1344} height={977} alt="" />
+    <Image src="/Don't-Miss-Image.png" width={1344} height={977} alt="" />
     </div>
         </div>
 
