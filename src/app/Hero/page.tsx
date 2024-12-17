@@ -64,10 +64,10 @@ const Hero = () => {
     <div className='flex gap-3'>
         <p className='pt-3 pr-2 leading-[24px] text-[15px] font-[Helvetica Neue] font-semibold'>Shop</p>
         <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-        <img src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+        <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
         </button>
         <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-        <img src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+        <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
         </button>
     </div>
 </div>
@@ -79,13 +79,13 @@ const Hero = () => {
   
   {/* Shoe Card 1 */}
 <div>
-  <img src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
       <div>
               <div className='flex justify-between'>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Air Max Pulse</p>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px] pr-5">₹ 13 995</p>
               </div>
-      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
       </div>
 
 </div>
@@ -93,28 +93,28 @@ const Hero = () => {
   
   {/* Shoe Card 2 */}
 <div>
-  <img src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
 
   <div>
               <div className='flex justify-between'>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Air Max Pulse</p>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px] pr-5">₹ 13 995</p>
               </div>
-      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
       </div> 
 </div>
   
 
   {/* Shoe Card 3 */}
 <div>
-  <img src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
+  <Image src="/box-shoe1.svg" className="w-[441.36px] h-[510.36px]" alt="Nike Air Max Pulse" />
 
   <div>
               <div className='flex justify-between'>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Air Max 97 SE</p>
       <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px] pr-5">₹ 16 995</p>
               </div>
-      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+      <p className="font-[Helvetica Neue] text-[15px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
       </div>
 </div>
 </div>
@@ -153,14 +153,14 @@ const Hero = () => {
     <div className="flex justify-evenly items-center px-8">                
     <div className='ml-[300px]'>                
     <div className='w-[211px] h-[48px] flex justify-between items-center content-center my-4'>
-    <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Men's</p>
+    <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Men&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <img src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+    <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <img src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+    <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
     </button>
     </div>
     </div>
@@ -169,14 +169,14 @@ const Hero = () => {
                             
                     
     <div className='w-[237px] h-[48px] flex justify-between items-center content-center my-4 ml-[350px]'>
-    <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Women's</p>
+    <p className='px-2 text-[15px] font-semibold leading-[24px] font-[Helvetica Neue]'>Shop Women&apos;s</p>
     
     <button className="w-[48px] h-[48px] bg-gray-100 rounded-[24px] flex items-center justify-center">
-    <img src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
+    <Image src="/arrow-right.svg" alt="Left Arrow" className="w-4 h-4" />
     </button>
 
     <button className="w-[48px] h-[48px] bg-gray-200 rounded-[24px] flex items-center justify-center">
-    <img src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
+    <Image src="/arrow-left.svg" alt="Right Arrow" className="w-4 h-4" />
     </button>
     </div>
             
@@ -189,7 +189,7 @@ const Hero = () => {
         <div>
           <div className='flex justify-between mt-6'><p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
           <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
           <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
         </div>
     </div>
@@ -199,7 +199,7 @@ const Hero = () => {
         <div>
           <div className='flex justify-between mt-6'><p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
           <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
           <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
         </div>
     </div>
@@ -207,22 +207,22 @@ const Hero = () => {
     </div>
 
     <div className='flex gap-3'>
-    <div><img src="/person-3.svg" alt="pic2" width={300} height={300} />
+    <div><Image src="/person-3.svg" alt="pic2" width={300} height={300} />
     
         <div>
           <div className='flex justify-between mt-6'><p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
           <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
           <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
         </div>
     </div>
     
-    <div><img src="/person-4.svg" alt="pic2" width={300} height={300} />
+    <div><Image src="/person-4.svg" alt="pic2" width={300} height={300} />
     
         <div>
           <div className='flex justify-between mt-6'><p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
           <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men's Short-Sleeve</p>
+          <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
           <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
         </div>
     </div>
@@ -239,7 +239,7 @@ const Hero = () => {
 
       <div className='flex justify-center mt-10'>
     <div className="top-[1807.36px] mt-20">
-    <div className='font-semibold font-[Helvetica Neue] h-[48px] text-[23px] leading-[28px]'>Don't Miss</div>
+    <div className='font-semibold font-[Helvetica Neue] h-[48px] text-[23px] leading-[28px]'>Don&apos;t Miss</div>
     <Image src="/Don't-Miss-Image.svg" width={1344} height={977} alt="" />
     </div>
         </div>
@@ -264,9 +264,9 @@ const Hero = () => {
     </div>
         
 <div className="flex justify betweeen px-10 gap-3">
-<div className='relative'><Image src="/Essential-3.svg" width={440} height={5407} alt="Essential Image-1" /> <Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Men's</Button></div>
-<div><Image src="/Essential-1.svg" width={440} height={5407} alt="Essential Image-2" /><Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Women's</Button></div>
-<div><Image src="/Essential-2.svg" width={440} height={5407} alt="Essential Image-3" /><Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Kids'</Button></div>
+<div className='relative'><Image src="/Essential-3.svg" width={440} height={5407} alt="Essential Image-1" /> <Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Men&apos;s</Button></div>
+<div><Image src="/Essential-1.svg" width={440} height={5407} alt="Essential Image-2" /><Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Women&apos;s</Button></div>
+<div><Image src="/Essential-2.svg" width={440} height={5407} alt="Essential Image-3" /><Button className="rounded-full bg-white text-black font-medium hover:bg-white relative bottom-20 left-12">Kids&apos;</Button></div>
 </div>
 
 <div className='flex justify-center px-10 my-12 pb-10'>
@@ -305,12 +305,12 @@ const Hero = () => {
   </div>
 
   <div>
-  <h6 className="font-[Helvetica Neue] font-bold text-[14px] leading-[24px]">Kids'</h6>
+  <h6 className="font-[Helvetica Neue] font-bold text-[14px] leading-[24px]">Kids&apos;</h6>
   <ul className="mt-6">
     <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Infant & Toddler Shoes</a></li>
-    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids' Shoes</a></li>
-    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids' Jordan Shoes</a></li>
-    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids' Basketball Shoes</a></li>
+    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids&apos; Shoes</a></li>
+    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids&apos; Jordan Shoes</a></li>
+    <li className="font-[Helvetica Neue] font-semibold text-[15px] py-2 text-gray-500 leading-[24px]"><a href="#" className="hover:text-blue-600 font-semibold transition-colors duration-300 ease-in-out">Kids&apos; Basketball Shoes</a></li>
   </ul>
   </div>
 

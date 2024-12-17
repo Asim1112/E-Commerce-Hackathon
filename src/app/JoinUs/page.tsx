@@ -3,7 +3,6 @@ import Header from '@/app/Header/Header';
 import Footer from '@/app/Footer/Footer';
 import Image from "next/image";
 import { Button} from "@/components/ui/button";
-import { Inter } from "@next/font/google";
 
 const page = () => {
   return (
@@ -45,7 +44,7 @@ const page = () => {
             
             <div className="flex flex-col gap-4 py-6">
             <label className="flex items-center"><input type="checkbox" className='w-[35px] h-[35px] rounded-[3px] border border-gray-300'/><span className="ml-3 font-[Helvetica Neue] font-medium text-[12px] leading-[14px] text-[rgba(141,141,141,1)]">Sign up for emails to get updates from Nike on products, offers and your Member benefits</span></label>
-            <div className="w-[309.31px] h-[30px] px-2"><p className="text-[12px] leading-[16px] font-medium font-[Helvetica Neue] text-center text-[rgba(141,141,141,1)]">By creating an account, you agree to Nike's <span className="text-[12px] underline text-[rgba(141,141,141,1)]"><a href="#" className='hover:text-blue-500 transition-colors duration-300'>Privacy Policy</a></span> and <span className="text-[12px] underline text-[rgba(141,141,141,1)]"><a href="#" className='hover:text-blue-500 transition-colors duration-300'>Terms of Use.</a></span></p></div>
+            <div className="w-[309.31px] h-[30px] px-2"><p className="text-[12px] leading-[16px] font-medium font-[Helvetica Neue] text-center text-[rgba(141,141,141,1)]">By creating an account, you agree to Nike&apos;s <span className="text-[12px] underline text-[rgba(141,141,141,1)]"><a href="#" className='hover:text-blue-500 transition-colors duration-300'>Privacy Policy</a></span> and <span className="text-[12px] underline text-[rgba(141,141,141,1)]"><a href="#" className='hover:text-blue-500 transition-colors duration-300'>Terms of Use.</a></span></p></div>
             </div>
             
             <div className="flex flex-col gap-4">

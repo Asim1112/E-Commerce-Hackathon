@@ -33,7 +33,7 @@ const page = () => {
                         <p className="font-[Helvetica Neue] font-semibold text-[15px] leading-[28px]">Nike Dri-FIT ADV TechKnit Ultra</p>
                         <p className="font-[Helvetica Neue] font-normal text-[15px] leading-[28px]">MRP: ₹ 3 895.00</p>
                     </div>
-                        <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Men's Short-Sleeve Running Top</p>
+                        <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Men&apos;s Short-Sleeve Running Top</p>
                         <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Ashen Slate/Cobalt Bliss</p>
                         <div className="w-[167.39px] h-[28px] flex justify-between">
                             <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Size <span className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal ml-1 text-[14px] leading-[28px]">L</span></p>
@@ -61,7 +61,7 @@ const page = () => {
                         <p className="font-[Helvetica Neue] font-semibold text-[15px] leading-[28px]">Nike Air Max 97 SE</p>
                         <p className="font-[Helvetica Neue] font-normal text-[15px] leading-[28px]">MRP: ₹ 16 995.00</p>
                     </div>
-                        <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Men's Shoes</p>
+                        <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Men&apos;s Shoes</p>
                         <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Flat Pewter/Light Bone/Black/White</p>
                         <div className="w-[167.39px] h-[28px] flex justify-between">
                             <p className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal text-[15px] leading-[28px]">Size <span className="font-[Helvetica Neue] text-[rgba(117,117,117,1)] font-normal ml-1 text-[14px] leading-[28px]">8</span></p>
