@@ -177,11 +177,24 @@ const page = () => {
      taxes)</p>
 
       
-  <p className='font-[Helvetica Neue text-[15px] font-bold leading-[24px] py-2'>Arrives Mon, 27 Mar - Wed, 12 Apr</p>
-  <div className='flex flex-col gap-2'>
-    <Image src="image-111.svg" alt="" width={320} height={208}></Image>
-    <Image src="image-222.svg" alt="" width={320} height={208}></Image>
+  <p className='font-[Helvetica Neue] text-[15px] font-bold leading-[24px] py-2'>Arrives Mon, 27 Mar - Wed, 12 Apr</p>
+  
+  <div className='w-[320px] h-[208px]flex flex-col gap-2'>
+      <div className='flex justify-between gap-4'>
+    <Image src="pic-end1.svg" alt="" width={208} height={208}></Image>
+    <p className='font-inter text-[13px]'><p className='font-normal leading-[24px]'>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Qty 1</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Size L</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>₹ 3 895.00</p></p>
+      </div>
   </div>
+
+
+  <div className='w-[320px] h-[208px]flex flex-col gap-2 mt-1'>
+      <div className='flex justify-between gap-4'>
+    <Image src="shoes-end.svg" alt="" width={208} height={208}></Image>
+    <p className='font-inter text-[13px]'><p className='font-normal leading-[24px]'>Nike Air Max 97 SE Men's Shoes</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Qty 1</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Size UK 8</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>₹ 16 995.00</p></p>
+      </div>
+  </div>
+
+
 
 
       </div>
