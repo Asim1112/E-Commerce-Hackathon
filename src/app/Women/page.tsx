@@ -190,7 +190,7 @@ const page = () => {
   <div className='w-[320px] h-[208px]flex flex-col gap-2 mt-1'>
       <div className='flex justify-between gap-4'>
     <Image src="shoes-end.svg" alt="" width={208} height={208}></Image>
-    <p className='font-inter text-[13px]'><p className='font-normal leading-[24px]'>Nike Air Max 97 SE Men&apos;s Shoes</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Qty 1</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Size UK 8</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>₹ 16 995.00</p></p>
+    <p className='font-inter text-[13px]'><p className='font-normal leading-[24px]'>Nike Air Max 97 SE Mens Shoes</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Qty 1</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>Size UK 8</p><p className='leading-[19.6px] text-[rgba(141,141,141,1)]'>₹ 16 995.00</p></p>
       </div>
   </div>
 
