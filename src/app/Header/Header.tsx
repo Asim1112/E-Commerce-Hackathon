@@ -62,7 +62,7 @@ const Header = () => {
   <ul className="flex gap-6">
     <li><Link href="/NewFeatured" className="hover:text-blue-500 transition-colors duration-300">New & Featured</Link></li>
     <li><Link href="/Men" className="hover:text-blue-500 transition-colors duration-300">Men</Link></li>
-    <li><Link href="/Women">Women</Link></li>
+    <li><Link href="/Women" className="hover:text-blue-500 transition-colors duration-300">Women</Link></li>
     <li><a href="#" className="hover:text-blue-500 transition-colors duration-300">Kids</a></li>
     <li><a href="#" className="hover:text-blue-500 transition-colors duration-300">Sale</a></li>
     <li><a href="#" className="hover:text-blue-500 transition-colors duration-300">SNKRS</a></li>
