@@ -214,10 +214,9 @@ const Hero = () => {
     
   <div>
     <div className='flex justify-between mt-6'>
-    <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
-    <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-    <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
-    <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
+    <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT Challenger</p>
+    <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 2 495</span></div>
+    <p className="w-[199.78px] h-[48px] font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s 18cm (approx.) 2-in-1 Versatile Shorts</p>
   </div>
 </div>
         
@@ -228,9 +227,9 @@ const Hero = () => {
 
 <div>
   <div className='flex justify-between mt-6'>
-  <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
-  <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-  <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
+  <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV Run Division</p>
+  <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 5 295</span></div>
+  <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Women&apos;s Long-Sleeve</p>
   <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
 </div>
 </div>
@@ -239,10 +238,9 @@ const Hero = () => {
 
 <div>
   <div className='flex justify-between mt-6'>
-  <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Dri-FIT ADV TechKnit Ultra</p>
-  <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 895</span></div>
-  <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Men&apos;s Short-Sleeve</p>
-  <p className="font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Running Top</p>
+  <p className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">Nike Fast</p>
+  <span className="font-[Helvetica Neue] text-[15px] font-semibold leading-[24px]">₹ 3 795</span></div>
+  <p className=" w-[224.39px] h-[28px] font-[Helvetica Neue] text-[16px] font-medium leading-[24px] text-gray-500">Women&apos;s Mid-Rise 7/8 Running Leggings with Pockets</p>
 </div>
 </div>
 </div>

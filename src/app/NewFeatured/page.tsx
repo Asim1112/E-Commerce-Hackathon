@@ -493,7 +493,7 @@ const NewFeatured = () => {
   </div>
 
 </div>
-<hr className="border-t-4"/>
+<hr className='mt-4'/>
 <div className="w-[1092px] h-[259px] flex flex-col justify-center items-center">
 
   <div>
