@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import Header from '@/app/Header/Header';
-import Footer from '@/app/Footer/Footer';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 
 

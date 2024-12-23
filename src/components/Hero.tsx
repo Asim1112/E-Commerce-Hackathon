@@ -1,10 +1,16 @@
 import React from 'react'
 import { Button} from "@/components/ui/button";
 import Image from "next/image";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 const Hero = () => {
   return (
+    
+    
     <div>
+          <Header />
+
       <div className="flex justify-center">
     <div className="w-[1440px]">
 
@@ -402,6 +408,8 @@ const Hero = () => {
 </div>
 </div>
 </div>
+    
+    <Footer />
     </div>
   )
 }
