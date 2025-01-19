@@ -24,7 +24,7 @@ const Header = () => {
 <div>
   <ul className="flex gap-4 font-[Helvetica Neue] font-medium text-[11px]">
     
-    <li><a href="#" className="text-black hover:text-blue-500 transition-colors duration-300">Find a Store</a></li>
+    <li><Link href="/FindAStore" className="text-black hover:text-blue-500 transition-colors duration-300">Find a Store</Link></li>
     <li>|</li>
     <li><Link href="/Help" className="text-black hover:text-blue-500 transition-colors duration-300">Help</Link></li>
     <li>|</li>
@@ -107,7 +107,7 @@ const Header = () => {
     </Link>
     
 
-  <Link href="/Cart">
+  <Link href="#">
   <Image 
     src="/icon-box.svg"
     alt="heart box"
